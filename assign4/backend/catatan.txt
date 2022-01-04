@@ -1,0 +1,4 @@
+Scripts\activate
+python routes.py
+
+git checkout origin/master
